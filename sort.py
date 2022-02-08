@@ -47,7 +47,7 @@ def draw(imagefile):
 
             write_image(img, imagefile[:size-4] + "_"+ str(boxes.index(i)) + ".png", x1, y1, x2, y2, mask_status)
 
-            cv.rectangle(img, (x1, y1), (x2, y2), rect_color, 2)
+            # cv.rectangle(img, (x1, y1), (x2, y2), rect_color, 2)
     else:
         mask_status = boxes['name']
 
@@ -67,7 +67,7 @@ def draw(imagefile):
 
         write_image(img, imagefile[:size-4] + "_"+ "0" + ".png", x1, y1, x2, y2, mask_status)
 
-        cv.rectangle(img, (x1, y1), (x2, y2), rect_color, 2)
+        # cv.rectangle(img, (x1, y1), (x2, y2), rect_color, 2)
 
     size = len(imagefile)
     ouput_name = './processed_images/' + imagefile[:size-4] + '_processed.png'
