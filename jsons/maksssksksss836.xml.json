@@ -1,0 +1,50 @@
+{
+  "annotation": {
+    "folder": "images",
+    "filename": "maksssksksss836.png",
+    "size": { "width": "400", "height": "313", "depth": "3" },
+    "segmented": "0",
+    "object": [
+      {
+        "name": "with_mask",
+        "pose": "Unspecified",
+        "truncated": "0",
+        "occluded": "0",
+        "difficult": "0",
+        "bndbox": { "xmin": "241", "ymin": "88", "xmax": "277", "ymax": "122" }
+      },
+      {
+        "name": "with_mask",
+        "pose": "Unspecified",
+        "truncated": "0",
+        "occluded": "0",
+        "difficult": "0",
+        "bndbox": { "xmin": "150", "ymin": "186", "xmax": "179", "ymax": "218" }
+      },
+      {
+        "name": "with_mask",
+        "pose": "Unspecified",
+        "truncated": "0",
+        "occluded": "0",
+        "difficult": "0",
+        "bndbox": { "xmin": "100", "ymin": "158", "xmax": "125", "ymax": "185" }
+      },
+      {
+        "name": "with_mask",
+        "pose": "Unspecified",
+        "truncated": "0",
+        "occluded": "0",
+        "difficult": "0",
+        "bndbox": { "xmin": "201", "ymin": "68", "xmax": "231", "ymax": "102" }
+      },
+      {
+        "name": "with_mask",
+        "pose": "Unspecified",
+        "truncated": "0",
+        "occluded": "0",
+        "difficult": "0",
+        "bndbox": { "xmin": "114", "ymin": "79", "xmax": "143", "ymax": "113" }
+      }
+    ]
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "annotation": {
+    "folder": "images",
+    "filename": "maksssksksss222.png",
+    "size": { "width": "400", "height": "226", "depth": "3" },
+    "segmented": "0",
+    "object": [
+      {
+        "name": "with_mask",
+        "pose": "Unspecified",
+        "truncated": "0",
+        "occluded": "0",
+        "difficult": "0",
+        "bndbox": { "xmin": "24", "ymin": "50", "xmax": "44", "ymax": "71" }
+      },
+      {
+        "name": "with_mask",
+        "pose": "Unspecified",
+        "truncated": "0",
+        "occluded": "0",
+        "difficult": "0",
+        "bndbox": { "xmin": "59", "ymin": "63", "xmax": "77", "ymax": "83" }
+      },
+      {
+        "name": "with_mask",
+        "pose": "Unspecified",
+        "truncated": "0",
+        "occluded": "0",
+        "difficult": "0",
+        "bndbox": { "xmin": "129", "ymin": "56", "xmax": "152", "ymax": "79" }
+      },
+      {
+        "name": "with_mask",
+        "pose": "Unspecified",
+        "truncated": "0",
+        "occluded": "0",
+        "difficult": "0",
+        "bndbox": { "xmin": "154", "ymin": "54", "xmax": "171", "ymax": "74" }
+      },
+      {
+        "name": "with_mask",
+        "pose": "Unspecified",
+        "truncated": "0",
+        "occluded": "0",
+        "difficult": "0",
+        "bndbox": { "xmin": "170", "ymin": "104", "xmax": "192", "ymax": "128" }
+      },
+      {
+        "name": "with_mask",
+        "pose": "Unspecified",
+        "truncated": "0",
+        "occluded": "0",
+        "difficult": "0",
+        "bndbox": { "xmin": "186", "ymin": "55", "xmax": "198", "ymax": "69" }
+      },
+      {
+        "name": "with_mask",
+        "pose": "Unspecified",
+        "truncated": "0",
+        "occluded": "0",
+        "difficult": "0",
+        "bndbox": { "xmin": "206", "ymin": "50", "xmax": "217", "ymax": "69" }
+      },
+      {
+        "name": "with_mask",
+        "pose": "Unspecified",
+        "truncated": "0",
+        "occluded": "0",
+        "difficult": "0",
+        "bndbox": { "xmin": "216", "ymin": "52", "xmax": "233", "ymax": "73" }
+      },
+      {
+        "name": "with_mask",
+        "pose": "Unspecified",
+        "truncated": "0",
+        "occluded": "0",
+        "difficult": "0",
+        "bndbox": { "xmin": "238", "ymin": "61", "xmax": "253", "ymax": "79" }
+      },
+      {
+        "name": "with_mask",
+        "pose": "Unspecified",
+        "truncated": "0",
+        "occluded": "0",
+        "difficult": "0",
+        "bndbox": { "xmin": "252", "ymin": "68", "xmax": "269", "ymax": "89" }
+      },
+      {
+        "name": "with_mask",
+        "pose": "Unspecified",
+        "truncated": "0",
+        "occluded": "0",
+        "difficult": "0",
+        "bndbox": { "xmin": "275", "ymin": "71", "xmax": "297", "ymax": "96" }
+      },
+      {
+        "name": "with_mask",
+        "pose": "Unspecified",
+        "truncated": "0",
+        "occluded": "0",
+        "difficult": "0",
+        "bndbox": { "xmin": "300", "ymin": "49", "xmax": "314", "ymax": "66" }
+      },
+      {
+        "name": "without_mask",
+        "pose": "Unspecified",
+        "truncated": "0",
+        "occluded": "0",
+        "difficult": "0",
+        "bndbox": { "xmin": "315", "ymin": "52", "xmax": "332", "ymax": "65" }
+      },
+      {
+        "name": "with_mask",
+        "pose": "Unspecified",
+        "truncated": "0",
+        "occluded": "0",
+        "difficult": "0",
+        "bndbox": { "xmin": "344", "ymin": "43", "xmax": "362", "ymax": "62" }
+      },
+      {
+        "name": "with_mask",
+        "pose": "Unspecified",
+        "truncated": "0",
+        "occluded": "0",
+        "difficult": "0",
+        "bndbox": { "xmin": "366", "ymin": "47", "xmax": "386", "ymax": "68" }
+      },
+      {
+        "name": "with_mask",
+        "pose": "Unspecified",
+        "truncated": "0",
+        "occluded": "0",
+        "difficult": "0",
+        "bndbox": { "xmin": "140", "ymin": "45", "xmax": "155", "ymax": "60" }
+      },
+      {
+        "name": "with_mask",
+        "pose": "Unspecified",
+        "truncated": "0",
+        "occluded": "0",
+        "difficult": "0",
+        "bndbox": { "xmin": "113", "ymin": "45", "xmax": "128", "ymax": "59" }
+      }
+    ]
+  }
+}

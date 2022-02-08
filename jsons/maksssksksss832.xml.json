@@ -1,0 +1,16 @@
+{
+  "annotation": {
+    "folder": "images",
+    "filename": "maksssksksss832.png",
+    "size": { "width": "309", "height": "400", "depth": "3" },
+    "segmented": "0",
+    "object": {
+      "name": "mask_weared_incorrect",
+      "pose": "Unspecified",
+      "truncated": "0",
+      "occluded": "0",
+      "difficult": "0",
+      "bndbox": { "xmin": "90", "ymin": "80", "xmax": "212", "ymax": "247" }
+    }
+  }
+}

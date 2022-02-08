@@ -1,0 +1,42 @@
+{
+  "annotation": {
+    "folder": "images",
+    "filename": "maksssksksss842.png",
+    "size": { "width": "400", "height": "225", "depth": "3" },
+    "segmented": "0",
+    "object": [
+      {
+        "name": "without_mask",
+        "pose": "Unspecified",
+        "truncated": "0",
+        "occluded": "0",
+        "difficult": "0",
+        "bndbox": { "xmin": "82", "ymin": "95", "xmax": "102", "ymax": "126" }
+      },
+      {
+        "name": "with_mask",
+        "pose": "Unspecified",
+        "truncated": "0",
+        "occluded": "0",
+        "difficult": "0",
+        "bndbox": { "xmin": "147", "ymin": "98", "xmax": "189", "ymax": "139" }
+      },
+      {
+        "name": "with_mask",
+        "pose": "Unspecified",
+        "truncated": "0",
+        "occluded": "0",
+        "difficult": "0",
+        "bndbox": { "xmin": "213", "ymin": "98", "xmax": "260", "ymax": "145" }
+      },
+      {
+        "name": "with_mask",
+        "pose": "Unspecified",
+        "truncated": "0",
+        "occluded": "0",
+        "difficult": "0",
+        "bndbox": { "xmin": "328", "ymin": "62", "xmax": "367", "ymax": "104" }
+      }
+    ]
+  }
+}

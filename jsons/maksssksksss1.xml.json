@@ -1,0 +1,82 @@
+{
+  "annotation": {
+    "folder": "images",
+    "filename": "maksssksksss1.png",
+    "size": { "width": "400", "height": "156", "depth": "3" },
+    "segmented": "0",
+    "object": [
+      {
+        "name": "with_mask",
+        "pose": "Unspecified",
+        "truncated": "0",
+        "occluded": "0",
+        "difficult": "0",
+        "bndbox": { "xmin": "321", "ymin": "34", "xmax": "354", "ymax": "69" }
+      },
+      {
+        "name": "with_mask",
+        "pose": "Unspecified",
+        "truncated": "0",
+        "occluded": "0",
+        "difficult": "0",
+        "bndbox": { "xmin": "224", "ymin": "38", "xmax": "261", "ymax": "73" }
+      },
+      {
+        "name": "with_mask",
+        "pose": "Unspecified",
+        "truncated": "0",
+        "occluded": "0",
+        "difficult": "0",
+        "bndbox": { "xmin": "299", "ymin": "58", "xmax": "315", "ymax": "81" }
+      },
+      {
+        "name": "with_mask",
+        "pose": "Unspecified",
+        "truncated": "0",
+        "occluded": "0",
+        "difficult": "0",
+        "bndbox": { "xmin": "143", "ymin": "74", "xmax": "174", "ymax": "115" }
+      },
+      {
+        "name": "with_mask",
+        "pose": "Unspecified",
+        "truncated": "0",
+        "occluded": "0",
+        "difficult": "0",
+        "bndbox": { "xmin": "74", "ymin": "69", "xmax": "95", "ymax": "99" }
+      },
+      {
+        "name": "with_mask",
+        "pose": "Unspecified",
+        "truncated": "0",
+        "occluded": "0",
+        "difficult": "0",
+        "bndbox": { "xmin": "191", "ymin": "67", "xmax": "221", "ymax": "93" }
+      },
+      {
+        "name": "with_mask",
+        "pose": "Unspecified",
+        "truncated": "0",
+        "occluded": "0",
+        "difficult": "0",
+        "bndbox": { "xmin": "21", "ymin": "73", "xmax": "44", "ymax": "93" }
+      },
+      {
+        "name": "with_mask",
+        "pose": "Unspecified",
+        "truncated": "0",
+        "occluded": "0",
+        "difficult": "0",
+        "bndbox": { "xmin": "369", "ymin": "70", "xmax": "398", "ymax": "99" }
+      },
+      {
+        "name": "without_mask",
+        "pose": "Unspecified",
+        "truncated": "0",
+        "occluded": "0",
+        "difficult": "0",
+        "bndbox": { "xmin": "83", "ymin": "56", "xmax": "111", "ymax": "89" }
+      }
+    ]
+  }
+}
